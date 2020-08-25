@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  NikitinAndrey (lesson3)
+//  WeatherApp
 //
-//  Created by Rayen on 25.08.2020.
-//  Copyright © 2020 Rayen. All rights reserved.
+//  Created by Eugene Kiselev on 29.07.2020.
+//  Copyright © 2020 Eugene Kiselev. All rights reserved.
 //
 
 import UIKit
